@@ -8,6 +8,8 @@ public class HashItem<Key, Value> {
     Key key;
     Value value;
 
+
+    
     /**
      * 
      * @param key of the HashItem
