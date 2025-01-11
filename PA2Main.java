@@ -1,4 +1,4 @@
-package Hashing;
+
 /*
  * @author Chuong Dang
  * 

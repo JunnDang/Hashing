@@ -1,4 +1,4 @@
-package Hashing;
+
 import java.util.*;
 /*
  * @aurthor Chuong Dang

@@ -1,4 +1,4 @@
-package Hashing;
+
 /**
  * @arthor Chuong Dang
  * This class repressent a student.

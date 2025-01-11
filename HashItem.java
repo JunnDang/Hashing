@@ -1,4 +1,4 @@
-package Hashing;
+
 /**
  * @author Chuong Dang
  * Key is the key of the HashItem

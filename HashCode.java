@@ -1,4 +1,4 @@
-package Hashing;
+
 /**
  * @author Chuong Dang
  * This is the HashCode class, it will retrun the hash code if the input item.
